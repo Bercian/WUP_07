@@ -38,6 +38,7 @@ with(kRdata, table(Sex, result))
 levels(kRdata$Sex)
 
 ```
+According to the table of patients dying is not independent of sex because only 25 females died compared to 44 men that died.
 
 ## We create two bar charts - one based on frequency and the other on percent, use ggplot commands to do this
 
@@ -78,6 +79,7 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
+
 
 
 ## Conclusions
