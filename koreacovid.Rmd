@@ -68,6 +68,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+The numerical results show that 98.7% of females are alive and 1.4% of them died from covid 19 in Korea from Jan-May. Also 97% of males are alive and 3% of them died from covid 19 in Korea from Jan-May.
+
 ## Inferential results 
 
 ```{r}
