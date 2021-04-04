@@ -57,12 +57,8 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=Sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-  
 
-
-
-
-
+According to the barchart around 1800 females are alive compared to around 1300 males that are alive. On the percent barchart it shows around 65 males died from covid 19 in Korea while only around 35 females died from covid 19 in Korea.
   
 ## Numerical results
 
@@ -84,4 +80,4 @@ fisher.test(table1)
 
 ## Conclusions
 
-In conclusion we reject the null hypothesis because the p value is 0.001 and the odds of a male dying by covid 19 in Korea are 2.3 times greater then that of a female dying from covid 19 in Korea.Also because the confidence interval does not contain the number 1.
+In conclusion we reject the null hypothesis because the p value is 0.001 and the odds of a male dying by covid 19 in Korea are 2.3 times greater then that of a female dying from covid 19 in Korea. Also because the confidence interval does not contain the number 1.
