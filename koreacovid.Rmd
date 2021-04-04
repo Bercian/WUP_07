@@ -78,8 +78,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+The p value is 0.001 and the odds of a male dying by covid 19 in Korea are 2.3 times greater then that of a female dying from covid 19 in Korea. Another thing is that the confidence interval does not contain the number 1.
 
 ## Conclusions
 
-In conclusion we reject the null hypothesis because the p value is 0.001 and the odds of a male dying by covid 19 in Korea are 2.3 times greater then that of a female dying from covid 19 in Korea. Also because the confidence interval does not contain the number 1.
+In conclusion we reject the null hypothesis because the p value is 0.001 and the odds of a male dying by covid 19 in Korea are 2.3 times greater then that of a female dying from covid 19 in Korea. Also because the confidence interval does not contain the number 1 is another reason why we reject the null hypothesis so there is a relationship between deaths in Korea Jan-May 2020 and sex of the patient.
